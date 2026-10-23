@@ -14,6 +14,10 @@ A parameterized dual-clock FIFO written in SystemVerilog. The design uses synchr
 
 This FIFO assumes a power-of-two depth and a synchronous interface on each side. Synchronizing Gray pointers reduces CDC risks, but does not by itself replace proper physical CDC and reset analysis.
 
+## Asynchronous FIFO Architecture
+
+![Asynchronous FIFO Architecture](async_fifo.png)
+
 ## Repository layout
 
 ```text
