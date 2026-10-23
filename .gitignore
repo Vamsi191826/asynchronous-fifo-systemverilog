@@ -1,0 +1,19 @@
+# Vivado-generated projects and simulation outputs
+.Xil/
+*.jou
+*.log
+*.vcd
+*.vvp
+*.wdb
+*.wcfg
+*.dcp
+*.pb
+*.rpx
+*.rpt
+*.xpr
+*.cache/
+*.runs/
+*.sim/
+*.gen/
+*.hw/
+*.ip_user_files/
