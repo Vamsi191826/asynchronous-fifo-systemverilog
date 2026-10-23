@@ -16,7 +16,7 @@ This FIFO assumes a power-of-two depth and a synchronous interface on each side.
 
 ## Asynchronous FIFO Architecture
 
-![Asynchronous FIFO Architecture](async_fifo.png)
+![Asynchronous FIFO Architecture](aysnc_fifo.png)
 
 ## Repository layout
 
